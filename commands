@@ -1,0 +1,16 @@
+clone 
+git clone <link>
+
+status
+git status                               work flow 
+                                      git repo -----> clone ------> changes ---->  add ----> commit ---> push 
+
+Add 
+git add . 
+
+Commit 
+
+git commit -m "some msg"
+
+Push Command
+git push origin main 
